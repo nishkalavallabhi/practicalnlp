@@ -3,3 +3,5 @@
 ### Wesbite - [www.pragmaticnlp.com](http://www.pragmaticnlp.com)
 -----------------------------------------------------------------------------------
 Chapter-wise notebooks for the book 'Practical Natural Language Processing'
+
+TODO: Requirements.txt for each notebook/chapter.
