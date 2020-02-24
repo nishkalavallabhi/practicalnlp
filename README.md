@@ -1,6 +1,7 @@
 # Practical Natural Language Processing
-### Aunj Gupta, Bodhisattwa P. Majumder, Sowmya Vajjala, Harshit Surana
-### Wesbite - [www.practicalnlp.ai](http://www.practicalnlp.ai)
+### Sowmya Vajjala, Bodhisattwa P. Majumder, Anuj Gupta, Harshit Surana
+### Website - [www.practicalnlp.ai](http://www.practicalnlp.ai)
+### Published by O'Reilly Media, 2020 (http://shop.oreilly.com/product/0636920262329.do)
 -----------------------------------------------------------------------------------
 Chapter-wise notebooks for the book 'Practical Natural Language Processing'
 
